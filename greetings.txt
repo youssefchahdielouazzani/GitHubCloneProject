@@ -1,1 +1,2 @@
-Bonjour , ceci est un message de mon depot cloné !
+Hello, this is a message from my cloned repository!
+
