@@ -1,1 +1,2 @@
-ceci est la description de mon depot
+This is the description of my repo
+
